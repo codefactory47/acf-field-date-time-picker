@@ -76,6 +76,6 @@ class acf_field_date_time_picker_plugin
 
 }
 
-
+new acf_field_date_time_picker_plugin();
 
 ?>
