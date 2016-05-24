@@ -11,6 +11,6 @@
 	],
 	"keywords": ["wordpress"],
 	"require": {
-		"php": ">=5.4.0",
+		"php": ">=5.4.0"
 	}
 }
